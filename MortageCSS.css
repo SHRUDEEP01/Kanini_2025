@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.extremeouter{
+    padding-top: 5vh;
+    background-color: #e3f4fc;
+    text-align: center;
+    height: 100vh;
+}
+.whole{
+    background-color: white;
+    height: 80vh;
+    border-radius: 50px;
+}
+.innerbox{
+    padding:4vw;
+}
+.Left{
+    background-color: white;
+    border-radius: 80px;
+}
+.Leftheader{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3vh;
+}
+.Leftpara{
+    color: #8a9a9e;
+
+    text-decoration: underline;
+}
+.amountbar{
+    border-width: 1px;
+    border-style: solid;
+    height: 5vh;
+    border-color: rgb(173, 168, 168);
+}
+.euro{
+    padding-left: 1vw;
+    padding-right: 1vw;
+    background-color: #e3f4fc;
+    text-align: center;
+    color: #697f8a;
+}
+.repayment{
+    border-width: 1px;
+    border-style: solid;
+    height: 5vh;
+    border-color: rgb(173, 168, 168);
+    background-color: #fafae0;
+}
+.buttonon{
+    width: 5vw;
+    text-align: center;
+    color: #d1d83d;
+    font-weight: bold;
+}
+.interestonly{
+    border-width: 1px;
+    border-style: solid;
+    height: 5vh;
+    border-color: rgb(173, 168, 168);
+}
+.circle{
+    width: 5vw;
+    text-align: center;
+    font-weight: bold;
+}
+.calculate{
+    padding-top: 1vh;
+    background-color: greenyellow;
+    border-radius: 10px;
+    height: 6vh;
+}
+.calc{
+    margin-right: ;
+}
+
+.Right{
+    background-color: #133040;
+    color: white;
+    border-bottom-left-radius: 160px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.para{
+    color: rgb(211, 210, 210);
+}
+.monthly{
+    background-color: #0e2431;
+    border-radius: 10px;
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-top-color: greenyellow;
+    padding: 3vw;
+    height:auto
+}
+.calcicon{
+    font-weight: bold;
+    height: 4vh;
+    width: 4vh;
+}
+.icon{
+    height: 4vh;
+    width: 4vw;
+    font-weight: bold;
+    color: greenyellow;
+}
