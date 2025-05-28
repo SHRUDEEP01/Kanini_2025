@@ -1,13 +1,13 @@
 # Kanini_2025
 
-# 🗂️ Internship Work Repository
+# Internship Work Repository
 
-Welcome to my Internship Work Repository! 👋  
+Welcome to my Internship Work Repository!  
 This repository will serve as a central place where I document and organize all the projects, experiments, and learning progress made throughout the course of my internship.
 
 ---
 
-## 📌 Purpose
+## Purpose
 
 This repo is intended to:
 - Showcase my internship contributions.
@@ -17,7 +17,7 @@ This repo is intended to:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 Depending on the task, the following technologies may be used throughout the internship:
 - Programming Languages: `Python`, `JavaScript`, `HTML/CSS`
@@ -27,7 +27,7 @@ Depending on the task, the following technologies may be used throughout the int
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 The structure will evolve as the internship progresses. Tentative format:
 /internship-work/
@@ -48,13 +48,13 @@ The structure will evolve as the internship progresses. Tentative format:
 
 ---
 
-## 📅 Timeline
+## Timeline
 
 I will continuously update this repo during the internship. Each week’s contribution will be documented with appropriate commits and structured in separate folders when needed.
 
 ---
 
-## ✅ Current Projects
+## Current Projects
 
 - [ ] Project 1: Title - Short description
 - [ ] Project 2: Title - Short description
@@ -64,13 +64,12 @@ _This list will grow over time._
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out to me if you'd like to collaborate or have any questions about this repository.
 
 shrudeepnitt105@gmail.com 
 https://www.linkedin.com/in/shrudeep-s/
-**Portfolio:** [your-portfolio-url (if any)]
 
 ---
 
