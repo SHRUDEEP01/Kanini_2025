@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background-color: #fcf8f5;
+  padding: 1rem;
+  color: #2d2d2d;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.main-content {
+  display: flex;
+  gap: 2rem;
+}
+
+
+.product-card {
+  background-color: #fcf8f5;
+  border-radius: 12px;
+  overflow:hidden;
+  transition: transform 0.2s;
+}
+
+.product-card:hover {
+  transform: translateY(+10px);
+}
+
+.product-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.product-info {
+  padding: 1rem;
+}
+
+.product-info h4 {
+  margin-bottom: 0.3rem;
+}
+
+.product-info p {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: #b44600;
+}
+
+.product-info button {
+    top: 0;
+    transform: translateY(-320%) translateX(3.5rem);
+  padding: 0.4rem 1rem;
+  border: 1px solid #b44600;
+  background: white;
+  color: #000000;
+  font-weight: bold;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.product-info button:hover {
+  background: #b44600;
+  color: white;
+}
+
+.cart {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  flex: 1;
+  height: fit-content;
+}
+
+.cart h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.cart-items {
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+.cart-items li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.order-total {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.note {
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+  color: #444;
+  background-color: #fcf8f5;
+  text-align: center;
+}
+
+.confirm {
+  padding: 0.8rem;
+  width: 100%;
+  background-color: #a63814;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.confirm:hover {
+  background-color: #872c0e;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+}
