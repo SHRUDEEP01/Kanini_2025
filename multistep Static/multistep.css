@@ -46,6 +46,16 @@
 }
 .bg{
     background-image: url("./assests/bg-sidebar-desktop.svg");
+    background-size: cover;       /* or 'contain' */
+  background-repeat: no-repeat;
+  background-position: center;               
     alt:'bg';
-    background-size: cover;
+    border-radius: 10px;
+    object-fit: fill;
+}
+
+@media(max-width: 960px){
+  .bg{
+    background-image: url(assests/bg-sidebar-mobile.svg);
+  }
 }
